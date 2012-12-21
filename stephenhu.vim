@@ -46,7 +46,7 @@ hi Function guifg=NONE ctermfg=2 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Structure guifg=NONE ctermfg=9 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Operator guifg=NONE ctermfg=11 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi PreProc guifg=NONE ctermfg=2 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi Define guifg=NONE ctermfg=174 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi Define guifg=NONE ctermfg=98 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Macro guifg=NONE ctermfg=15 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi MatchParen guifg=NONE ctermfg=12 guibg=NONE ctermbg=11 gui=NONE cterm=NONE
 hi ColorColumn guifg=None ctermfg=None guibg=None ctermbg=7 gui=NONE cterm=NONE
