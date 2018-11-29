@@ -49,7 +49,7 @@ hi PreProc guifg=NONE ctermfg=2 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Define guifg=NONE ctermfg=98 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Macro guifg=NONE ctermfg=15 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi MatchParen guifg=NONE ctermfg=12 guibg=NONE ctermbg=11 gui=NONE cterm=NONE
-hi ColorColumn guifg=None ctermfg=None guibg=None ctermbg=7 gui=NONE cterm=NONE
-hi Todo guifg=None ctermfg=15 guibg=None ctermbg=22 gui=NONE cterm=NONE
-hi CursorLine cterm=NONE gui=NONE ctermbg=232 guibg=232
+hi ColorColumn guifg=NONE ctermfg=NONE guibg=NONE ctermbg=7 gui=NONE cterm=NONE
+hi Todo guifg=NONE ctermfg=15 guibg=NONE ctermbg=22 gui=NONE cterm=NONE
+hi CursorLine guifg=NONE cterm=NONE gui=NONE ctermbg=232
 
